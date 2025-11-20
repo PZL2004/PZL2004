@@ -1,7 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PZL2004&layout=compact)
 
-I use C++ more than it says above, it's just research that I cannot share.
 <!--
 **PZL2004/PZL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
