@@ -1,4 +1,5 @@
 ### Hi there 👋
+![pzl's GitHub stats](https://github-readme-stats-pzl.vercel.app/api?username=PZL2004&show_icons=true&count_private=true)
 
 <!--
 **PZL2004/PZL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
